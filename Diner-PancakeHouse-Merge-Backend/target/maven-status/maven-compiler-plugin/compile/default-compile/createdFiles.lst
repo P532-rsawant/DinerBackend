@@ -1,9 +1,0 @@
-edu/iu/habahram/DinerPancakeHouseMerge/controllers/PancakeHouseController.class
-edu/iu/habahram/DinerPancakeHouseMerge/controllers/MergerController.class
-edu/iu/habahram/DinerPancakeHouseMerge/repository/DinerRepository.class
-edu/iu/habahram/DinerPancakeHouseMerge/model/DinerMenu.class
-edu/iu/habahram/DinerPancakeHouseMerge/model/PancakeHouseMenu.class
-edu/iu/habahram/DinerPancakeHouseMerge/repository/PancakeHouseRepository.class
-edu/iu/habahram/DinerPancakeHouseMerge/model/MenuItem.class
-edu/iu/habahram/DinerPancakeHouseMerge/controllers/DinerController.class
-edu/iu/habahram/DinerPancakeHouseMerge/Application.class
